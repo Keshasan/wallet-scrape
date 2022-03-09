@@ -1,0 +1,179 @@
+{
+    "pageProps": {
+        "walletCount": 146,
+        "walletData": [
+            {
+                "category": "Wallet",
+                "id": "1ae92b26df02f0abca6304df07debccd18262fdf5fe82daa81593582dac9a369",
+                "homepage": "https://rainbow.me/",
+                "name": "Rainbow",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/1ae92b26df02f0abca6304df07debccd18262fdf5fe82daa81593582dac9a369"
+            },
+            {
+                "category": "Wallet",
+                "id": "4622a2b2d6af1c9844944291e5e7351a6aa24cd7b23099efac1b2fd875da31a0",
+                "homepage": "https://trustwallet.com/",
+                "name": "Trust Wallet",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/4622a2b2d6af1c9844944291e5e7351a6aa24cd7b23099efac1b2fd875da31a0"
+            },
+            {
+                "category": "Wallet",
+                "id": "cf21952a9bc8108bf13b12c92443751e2cc388d27008be4201b92bbc6d83dd46",
+                "homepage": "https://argent.xyz/",
+                "name": "Argent",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/cf21952a9bc8108bf13b12c92443751e2cc388d27008be4201b92bbc6d83dd46"
+            },
+            {
+                "category": "Wallet",
+                "id": "c57ca95b47569778a828d19178114f4db188b89b763c899ba0be274e97267d96",
+                "homepage": "https://metamask.io/",
+                "name": "MetaMask",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/c57ca95b47569778a828d19178114f4db188b89b763c899ba0be274e97267d96"
+            },
+            {
+                "category": "Wallet",
+                "id": "225affb176778569276e484e1b92637ad061b01e13a048b35a9d280c3b58970f",
+                "homepage": "https://gnosis-safe.io/",
+                "name": "Gnosis Safe Multisig",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/225affb176778569276e484e1b92637ad061b01e13a048b35a9d280c3b58970f"
+            },
+            {
+                "category": "Wallet",
+                "id": "f2436c67184f158d1beda5df53298ee84abfc367581e4505134b5bcf5f46697d",
+                "homepage": "https://crypto.com/",
+                "name": "Crypto.com | DeFi Wallet",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/f2436c67184f158d1beda5df53298ee84abfc367581e4505134b5bcf5f46697d"
+            },
+            {
+                "category": "Wallet",
+                "id": "0b58bf037bf943e934706796fb017d59eace1dadcbc1d9fe24d9b46629e5985c",
+                "homepage": "https://pillarproject.io/",
+                "name": "Pillar",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/0b58bf037bf943e934706796fb017d59eace1dadcbc1d9fe24d9b46629e5985c"
+            },
+            {
+                "category": "Wallet",
+                "id": "9d373b43ad4d2cf190fb1a774ec964a1addf406d6fd24af94ab7596e58c291b2",
+                "homepage": "https://token.im/",
+                "name": "imToken",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/9d373b43ad4d2cf190fb1a774ec964a1addf406d6fd24af94ab7596e58c291b2"
+            },
+            {
+                "category": "Wallet",
+                "id": "dceb063851b1833cbb209e3717a0a0b06bf3fb500fe9db8cd3a553e4b1d02137",
+                "homepage": "https://onto.app/",
+                "name": "ONTO",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/dceb063851b1833cbb209e3717a0a0b06bf3fb500fe9db8cd3a553e4b1d02137"
+            },
+            {
+                "category": "Wallet",
+                "id": "20459438007b75f4f4acb98bf29aa3b800550309646d375da5fd4aac6c2a2c66",
+                "homepage": "https://tokenpocket.pro/",
+                "name": "TokenPocket",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/20459438007b75f4f4acb98bf29aa3b800550309646d375da5fd4aac6c2a2c66"
+            },
+            {
+                "category": "Wallet",
+                "id": "7674bb4e353bf52886768a3ddc2a4562ce2f4191c80831291218ebd90f5f5e26",
+                "homepage": "https://mathwallet.org/",
+                "name": "MathWallet",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/7674bb4e353bf52886768a3ddc2a4562ce2f4191c80831291218ebd90f5f5e26"
+            },
+            {
+                "category": "Wallet",
+                "id": "ccb714920401f7d008dbe11281ae70e3a4bfb621763b187b9e4a3ce1ab8faa3b",
+                "homepage": "https://bitpay.com",
+                "name": "BitPay",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/ccb714920401f7d008dbe11281ae70e3a4bfb621763b187b9e4a3ce1ab8faa3b"
+            }
+        ],
+        "dappCount": 159,
+        "dappData": [
+            {
+                "category": "App",
+                "id": "d2ae9c3c2782806fd6db704bf40ef0238af9470d7964ae566114a033f4a9a110",
+                "homepage": "https://etherscan.io/",
+                "name": "Etherscan",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/d2ae9c3c2782806fd6db704bf40ef0238af9470d7964ae566114a033f4a9a110"
+            },
+            {
+                "category": "App",
+                "id": "be49f0a78d6ea1beed3804c3a6b62ea71f568d58d9df8097f3d61c7c9baf273d",
+                "homepage": "https://uniswap.exchange/",
+                "name": "Uniswap",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/be49f0a78d6ea1beed3804c3a6b62ea71f568d58d9df8097f3d61c7c9baf273d"
+            },
+            {
+                "category": "App",
+                "id": "7ba1202d012a1402c8c56331471b183d2aaafb99a667dfdaf2ac4a123ea604ed",
+                "homepage": "https://binance.org/",
+                "name": "Binance DEX",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/7ba1202d012a1402c8c56331471b183d2aaafb99a667dfdaf2ac4a123ea604ed"
+            },
+            {
+                "category": "App",
+                "id": "f759efd17edb158c361ffd793a741b3518fe85b9c15d36b9483fba033118aaf2",
+                "homepage": "https://opensea.io/",
+                "name": "OpenSea",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/f759efd17edb158c361ffd793a741b3518fe85b9c15d36b9483fba033118aaf2"
+            },
+            {
+                "category": "App",
+                "id": "a85fb60f37b9971969e00caa241ed2b6ccd8fce369f59d3a965202595a4a9462",
+                "homepage": "https://gnosis-safe.io/",
+                "name": "Gnosis Safe Multisig",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/a85fb60f37b9971969e00caa241ed2b6ccd8fce369f59d3a965202595a4a9462"
+            },
+            {
+                "category": "App",
+                "id": "d82213ea5c476a43d9ab48d2011e3a5329a07826bd8191b24815e5bfe8c207be",
+                "homepage": "https://compound.finance/",
+                "name": "Compound",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/d82213ea5c476a43d9ab48d2011e3a5329a07826bd8191b24815e5bfe8c207be"
+            },
+            {
+                "category": "App",
+                "id": "02563239502b03cef22f5e71059ce97bd48cf7ab0f856964d7e17c0e3631db9f",
+                "homepage": "https://zapper.fi/",
+                "name": "Zapper",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/02563239502b03cef22f5e71059ce97bd48cf7ab0f856964d7e17c0e3631db9f"
+            },
+            {
+                "category": "App",
+                "id": "e6c38d65364335d550f629c44a1a86eb6befffa363e7de1cdba26462838226fd",
+                "homepage": "https://app.aave.com/",
+                "name": "Aave",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/e6c38d65364335d550f629c44a1a86eb6befffa363e7de1cdba26462838226fd"
+            },
+            {
+                "category": "App",
+                "id": "855679a1802326625d10fcaf45cf366aa529a58827d28d01edec0f5fd32330d4",
+                "homepage": "https://beta.zerion.io/",
+                "name": "Zerion",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/855679a1802326625d10fcaf45cf366aa529a58827d28d01edec0f5fd32330d4"
+            },
+            {
+                "category": "App",
+                "id": "9a70a431ed25a8872ef971e3b02c9a7dfff2ae6cf66ec9eb37612aadefbc4e9d",
+                "homepage": "https://localcryptos.com/",
+                "name": "LocalCryptos",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/9a70a431ed25a8872ef971e3b02c9a7dfff2ae6cf66ec9eb37612aadefbc4e9d"
+            },
+            {
+                "category": "App",
+                "id": "fd0cae9917f44482aae80d4a3ef4d8a53e50d465cde783baf5d2eca5cc53cf61",
+                "homepage": "https://debank.com/",
+                "name": "DeBank",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/fd0cae9917f44482aae80d4a3ef4d8a53e50d465cde783baf5d2eca5cc53cf61"
+            },
+            {
+                "category": "App",
+                "id": "8308656f4548bb81b3508afe355cfbb7f0cb6253d1cc7f998080601f838ecee3",
+                "homepage": "https://unstoppabledomains.com/manager",
+                "name": "Unstoppable Domains",
+                "image": "https://registry.walletconnect.com/api/v1/logo/lg/8308656f4548bb81b3508afe355cfbb7f0cb6253d1cc7f998080601f838ecee3"
+            }
+        ]
+    },
+    "__N_SSG": true
+}
